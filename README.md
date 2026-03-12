@@ -1,4 +1,4 @@
-# homelab-starter
+![homelab-starter](img.png)
 
 A single-script homelab bootstrap for a self-hosted media and productivity server ("Apollo Server"). Running `homelab.sh` installs Docker, creates a consistent directory layout, writes all Docker Compose files, and brings every service up in one shot.
 
